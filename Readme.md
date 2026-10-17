@@ -1,7 +1,9 @@
 <div align="center">
 
-<!-- Typing SVG Banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=800&color=6E40C9&center=true&vCenter=true&width=830&height=55&lines=Hi%2C+I%27m+Mayank+Tak+%F0%9F%91%8B;Software+Engineer+%7C+Full-Stack+%7C+Cloud+%7C+AI;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
+<h1>Hi, I'm Mayank Tak 👋</h1>
+
+<!-- Typing SVG — role lines only -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=800&color=6E40C9&center=true&vCenter=true&width=830&height=50&lines=Software+Engineer+%7C+Full-Stack+%7C+Cloud+%7C+AI;Building+things+that+matter+%F0%9F%9A%80" alt="Typing SVG" />
 
 <br/>
 
